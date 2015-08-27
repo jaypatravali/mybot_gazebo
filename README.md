@@ -1,7 +1,7 @@
-# Gazebo Tutorial for grasping essential concepts and technical jargon.
+## Gazebo Tutorial for grasping essential concepts and technical jargon.
 
 
-### Original Tutorial found at http://www.generationrobots.com/en/content/75-gazebo-and-ros
+#### Original Tutorial found at http://www.generationrobots.com/en/content/75-gazebo-and-ros
 
 
 
@@ -19,7 +19,8 @@
 - $ cd ..
 - $ catkin_make
 
-####
+#### 
+
 - $ cd src
 - $ git clone https://github.com/jaypatravali/mybot_gazebo.git
 - $ cd ..
