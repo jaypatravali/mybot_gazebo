@@ -10,7 +10,7 @@
 * Recommended Configuration: Ubuntu 14.04 and ROS Indigo
 
 
-#### Steps to run this | In your : 
+#### Steps to run this | In your working directory: 
 
 - $ sudo apt-get install ros-indigo-effort-controllers
 - $ mkdir -p learn_gazebo/src
