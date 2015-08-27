@@ -29,6 +29,6 @@
 #### To run this 
 - $ cd learn_gazebo
 - $ source devel/setup.sh
-- $ roslaunch mybot_gazebo mybot.launch- 
+- $ roslaunch mybot_gazebo mybot.launch
 
 
