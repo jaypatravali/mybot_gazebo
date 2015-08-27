@@ -2,7 +2,6 @@
 <gazebo>
   <plugin name="gazebo_ros_control" filename="libgazebo_ros_control.so">
     <robotNamespace>/mybot</robotNamespace>
-    <robotSimType>gazebo_ros_control/DefaultRobotHWSim</robotSimType>
   </plugin>
 </gazebo>
 
@@ -12,8 +11,8 @@
   <material>Gazebo/Orange</material>
 </gazebo>
 <gazebo reference="caster_wheel">
-  <mu1>0.0</mu1>
-  <mu2>0.0</mu2>
+  <mu1>0.5</mu1>
+  <mu2>0.5</mu2>
   <material>Gazebo/Red</material>
 </gazebo>
 <gazebo reference="right_wheel">
