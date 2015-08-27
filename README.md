@@ -18,8 +18,8 @@
 - $ catkin_init_workspace
 - $ cd ..
 - $ catkin_make
-####
 
+####
 - $ cd src
 - $ git clone https://github.com/jaypatravali/mybot_gazebo.git
 - $ cd ..
